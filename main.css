@@ -1,0 +1,51 @@
+@font-face {
+font-family: PokemonHollow;
+src: url(Hollow.ttf);
+}
+
+@font-face {
+font-family: PokemonSolid;
+src: url(Solid.ttf);
+}
+
+body{
+  background-image: url(pikachuwallpaper.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+a {
+  color: blue;
+}
+
+a:visited{
+  color: purple;
+}
+
+a:hover {
+  color: red;
+}
+
+#Logo {
+  font-family: PokemonSolid;
+  -webkit-text-fill-color: #e5da2a;
+  -webkit-text-stroke: 1px #1111ff;
+  font-size: 50px;
+  text-align: center;
+  <_ (Border for test) !border: 1px solid rgba(0, 0, 0, .5);_>
+  padding: 1px;
+  margin: auto;
+  position: relative;
+  bottom: 50px;
+
+}
+#Player {
+  position: relative;
+  left: 534px;
+}
+
+#Developedby {
+  position: relative;
+  top: 440px;
+}

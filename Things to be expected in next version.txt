@@ -1,0 +1,26 @@
+-Add a navigation bar.
+-Add a simple search button.
+-Expand the footer of the page.
+!-Create the first Pokemon info page (Pikachu).
+	--This means this will have a table with this information:
+		---Type.
+		---Heigth.
+		---Weigth.
+		---Percent of gender.
+		---Generation.
+		!!---FootPrint.
+		!!---Cry sound.
+		---Pokemon General description.
+		---Evolution and Preevolution*.
+		---Megaevolution/s*.
+		---Special forms*.	
+		+---Fisiology.
+	--Until the logo is changed, use the Pokémon png of the page as the icon of the page.
+!-Adjust the page to resize of the web browser.
+!-Create an logo to sustitute the Pokédex h1 at the top center of the page.
+
+Notes:
+!- May be delayed to futher versions because of complexity of the task.
+!!- May be delayed to futher versions because of time taken to add this change or feature.
++ Tentative change.
+* If applicable.
